@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Julian and i am currently attending a vocational college in Soest.
 
 <!--
 **leJulxan/leJulxan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
